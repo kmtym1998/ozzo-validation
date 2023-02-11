@@ -6,6 +6,8 @@
 # Idea Directory
 .idea
 
+.vscode
+
 # Folders
 _obj
 _test
