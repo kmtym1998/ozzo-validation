@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/go-ozzo/ozzo-validation/v4/is"
+	"github.com/kmtym1998/ozzo-validation/v4"
+	"github.com/kmtym1998/ozzo-validation/v4/is"
 )
 
 type Address struct {
